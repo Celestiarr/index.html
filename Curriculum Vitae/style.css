@@ -1,0 +1,64 @@
+section {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin: 20px 0;
+    box-shadow: 0 0 5px #aaa;
+}
+
+.highlight {
+    background-color: #F3B700;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 6px;
+
+}
+
+.highlight2 {
+    background-color: #F3B700;
+    color: white;
+    padding: 10px;
+    margin-right: 45px;
+}
+
+.biodata {
+    background-color: #E57C04;
+    border: none;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.biodata .image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.biodata img {
+    width: 300px;
+    height: 430px;
+    margin-top: 40px;
+    border-radius: 16px;
+    box-shadow: 0 0 8px;
+}
+
+#tengah {
+    text-align: center;
+}
+
+.footer {
+    background-color: #F3B700;
+    padding: 20px;
+   
+}
+
+.footer a {
+    color: rgb(255, 255, 255);
+}
+
+#logo {
+   margin-right: 6px;
+   margin-left: 6px;
+}
+
